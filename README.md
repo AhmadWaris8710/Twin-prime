@@ -1,1 +1,3 @@
 # Twin-prime
+#This Java program identifies and prints all twin prime pairs (primes that differ by 2) below 1000. It consists of two main functions: isPrime(), which checks if a number is prime by testing divisibility up to its square root, and findTwinPrimes(), which iterates through numbers and collects pairs where both a number and its successor two places ahead are primes. The main() method calls findTwinPrimes(1000) and prints each pair in the format (p, p+2), producing output like (3, 5), (5, 7), up to (881, 883). The program efficiently verifies primes and compiles twin pairs using optimized prime-checking logic.
+![image](https://github.com/user-attachments/assets/0e77a4a8-36e6-4f3d-a07b-f05ec36c6e6e)
